@@ -1,3 +1,5 @@
+Team: Drew Stone, Liam Gallagher
+
 We created a bitcoin transaction graph. We downloaded a local copy of the block chain, but 
 found parsing transactions from this to be extremely difficult, even with the library bitcoinj.
 Instead, we used jSoup to pull parsed transaction data from the website blockexplorer.com, and
